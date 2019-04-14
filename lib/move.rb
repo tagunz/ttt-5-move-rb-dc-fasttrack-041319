@@ -8,4 +8,6 @@ def display_board(board)
   puts " #{board[6]} | #{board[7]} | #{board[8]} "
 end
 
+input_to_index("1" - "9")
+"#{board[0]}" = "#{1}"
 # code your input_to_index and move method here!
