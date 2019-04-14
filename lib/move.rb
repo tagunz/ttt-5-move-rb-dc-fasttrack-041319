@@ -9,7 +9,7 @@ def display_board(board)
 end
 
 
-input_to_index("1" - "9") def 
+input_to_index("1" - "9") def
 "#{board[0-8]}" = "#{"1"- "9"}"
 end
 
