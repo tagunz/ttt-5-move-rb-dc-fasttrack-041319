@@ -8,7 +8,7 @@ def display_board(board)
   puts " #{board[6]} | #{board[7]} | #{board[8]} "
 end
 
-input_to_index(user_input)
+
 input_to_index("1" - "9") def 
 "#{board[0-8]}" = "#{"1"- "9"}"
 end
