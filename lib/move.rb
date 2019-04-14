@@ -13,4 +13,5 @@ input_to_index("1" - "9") def
 "#{board[0-8]}" = "#{"1"- "9"}"
 end
 
+
 # code your input_to_index and move method here!
