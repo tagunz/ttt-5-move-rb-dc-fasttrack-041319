@@ -4,4 +4,6 @@
 
 # Code your CLI Here
 
+user_input =
+
 input_to_index(user_input)
